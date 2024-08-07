@@ -1,0 +1,8 @@
+Nombre: Destructor
+Edad: 18
+Sexo: hombre
+Escena 1: La golpeas
+Escena 2: Te levantas y hablas con tu profesor
+Escena 3: Te interpones entre los agresores y tu compañero
+Escena 4: Ignoras completamente la situacion
+

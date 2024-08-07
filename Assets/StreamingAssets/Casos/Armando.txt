@@ -1,0 +1,8 @@
+Nombre: Armando
+Edad: 16
+Sexo: hombre
+Escena 1: La golpeas
+Escena 2: Guardas silencio
+Escena 3: Te interpones entre los agresores y tu compañero
+Escena 4: Ignoras completamente la situacion
+

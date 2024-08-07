@@ -1,0 +1,8 @@
+Nombre: Umishia
+Edad: 27
+Sexo: mujer
+Escena 1: Tratas de calmarla
+Escena 2: Lloras
+Escena 3: Ignoras el suceso
+Escena 4: Ignoras completamente la situacion
+

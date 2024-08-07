@@ -1,0 +1,8 @@
+Nombre: Evil
+Edad: 24
+Sexo: hombre
+Escena 1: La golpeas
+Escena 2: Guardas silencio
+Escena 3: Te unes a la burla sobre tu compañero
+Escena 4: Ignoras completamente la situacion
+

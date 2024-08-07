@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 8e8cdcb84fc7fcc45b4c420ef3896384
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4060903811242744513
+    second: Tablones_Varios_0
+  - first:
+      213: 5129413402792001847
+    second: Tablones_Varios_1
+  - first:
+      213: -126862264118700869
+    second: Tablones_Varios_2
+  - first:
+      213: 2692588126455075607
+    second: Tablones_Varios_3
+  - first:
+      213: -4217776615337133197
+    second: Tablones_Varios_4
+  - first:
+      213: 3116472294250166103
+    second: Tablones_Varios_5
+  - first:
+      213: 4718246918837557800
+    second: Tablones_Varios_6
+  - first:
+      213: -5720363293947455469
+    second: Tablones_Varios_7
+  - first:
+      213: 3737980822223481263
+    second: Tablones_Varios_8
+  - first:
+      213: -1524535780379792689
+    second: Tablones_Varios_9
+  - first:
+      213: 6799920190274919307
+    second: Tablones_Varios_10
+  - first:
+      213: 5219334856780752227
+    second: Tablones_Varios_11
+  - first:
+      213: -4539631995107783994
+    second: Tablones_Varios_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tablones_Varios_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 424
+        width: 219
+        height: 301
+      alignment: 9
+      pivot: {x: 0.47500974, y: 0.027261829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35a8dfcf75c4a7c0800000000000000
+      internalID: -4060903811242744513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablones_Varios_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 652
+        width: 371
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7318b8320565f2740800000000000000
+      internalID: 5129413402792001847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablones_Varios_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 689
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb49dc3617b4d3ef0800000000000000
+      internalID: -126862264118700869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablones_Varios_3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 449
+        width: 266
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4125575, y: 0.045575414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131ac392aefd5520800000000000000
+      internalID: 2692588126455075607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablones_Varios_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 574
+        width: 384
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b71ecd3827775c0800000000000000
+      internalID: -4217776615337133197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablones_Varios_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 187
+        width: 240
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757b0233a0fef3b20800000000000000
+      internalID: 3116472294250166103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablones_Varios_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 204
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ad4e703949a7140800000000000000
+      internalID: 4718246918837557800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablones_Varios_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 207
+        width: 390
+        height: 341
+      alignment: 9
+      pivot: {x: 0.07550315, y: 0.058641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318141654ef2d90b0800000000000000
+      internalID: -5720363293947455469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablones_Varios_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 38
+        width: 250
+        height: 154
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.8909178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa96addc0c9ffd330800000000000000
+      internalID: 3737980822223481263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablones_Varios_9
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 163
+        width: 264
+        height: 269
+      alignment: 9
+      pivot: {x: 0.116485596, y: 0.04223355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcae61bf8c2c7dae0800000000000000
+      internalID: -1524535780379792689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablones_Varios_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 47
+        width: 268
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bd752b26b2e5e50800000000000000
+      internalID: 6799920190274919307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablones_Varios_11
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 148
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3652b36266dce6840800000000000000
+      internalID: 5219334856780752227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablones_Varios_12
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 35
+        width: 325
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca4a90a0ccfff0c0800000000000000
+      internalID: -4539631995107783994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
